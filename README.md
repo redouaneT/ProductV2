@@ -25,7 +25,7 @@ Suivez ces étapes pour mettre en place le projet sur votre machine locale :
 1. Clonez le dépôt :
 
    ```
-   git clone https://github.com/votreutilisateur/nom-du-projet.git
+   git clone git@github.com:redouaneT/ProductV2.git
    ```
 
 2. Accédez au dossier du projet :
